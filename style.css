@@ -1,0 +1,11 @@
+#box{
+    display: flex;
+    justify-content: center;
+}
+
+.text-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
